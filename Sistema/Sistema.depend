@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1592935866 source:c:\users\fapesc-nb-pc\desktop\sistemabiblioteca\sistema\main.cpp
+	<stdio.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+	<ctype.h>
+
+1650462055 source:c:\geovani\google drive\algoritmos\2020 - eng. computação\exemplos\sistemabiblioteca\sistema\main.cpp
+	<stdio.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+	<ctype.h>
+
+1677544893 source:c:\users\fapesc\desktop\sistema\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<cstdlib>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1677508451 source:c:\geovani\google drive\engenharia de software para sistemas computacionais\2022 engenharia de software\exemplos\sistema com cadastro e alteração de registros\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<cstdlib>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1677524661 source:c:\sistema\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<cstdlib>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
